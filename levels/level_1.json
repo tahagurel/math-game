@@ -1,0 +1,170 @@
+{
+    "start_number": 10,
+    "reach_number_start" : 120,
+    "reach_number_end" : 150,
+    "columns_number": 5,
+    "move_number":10,
+    "values":[
+          {
+            "number": 51,
+            "operator": "+"
+          },
+          {
+            "number": 44,
+            "operator": "-"
+          },
+          {
+            "number": 28,
+            "operator": "/"
+          },
+          {
+            "number": 16,
+            "operator": "x"
+          },
+          {
+            "number": 74,
+            "operator": "+"
+          },
+          {
+            "number": 78,
+            "operator": "/"
+          },
+          {
+            "number": 95,
+            "operator": "-"
+          },
+          {
+            "number": 61,
+            "operator": "/"
+          },
+          {
+            "number": 51,
+            "operator": "-"
+          },
+          {
+            "number": 69,
+            "operator": "+"
+          },
+          {
+            "number": 15,
+            "operator": "-"
+          },
+          {
+            "number": 93,
+            "operator": "+"
+          },
+          {
+            "number": 57,
+            "operator": "+"
+          },
+          {
+            "number": 80,
+            "operator": "-"
+          },
+          {
+            "number": 97,
+            "operator": "-"
+          },
+          {
+            "number": 90,
+            "operator": "+"
+          },
+          {
+            "number": 93,
+            "operator": "-"
+          },
+          {
+            "number": 74,
+            "operator": "x"
+          },
+          {
+            "number": 43,
+            "operator": "-"
+          },
+          {
+            "number": 40,
+            "operator": "-"
+          },
+          {
+            "number": 87,
+            "operator": "x"
+          },
+          {
+            "number": 15,
+            "operator": "/"
+          },
+          {
+            "number": 21,
+            "operator": "+"
+          },
+          {
+            "number": 81,
+            "operator": "+"
+          },
+          {
+            "number": 43,
+            "operator": "x"
+          },
+          {
+            "number": 40,
+            "operator": "x"
+          },
+          {
+            "number": 53,
+            "operator": "-"
+          },
+          {
+            "number": 87,
+            "operator": "x"
+          },
+          {
+            "number": 20,
+            "operator": "/"
+          },
+          {
+            "number": 88,
+            "operator": "-"
+          },
+          {
+            "number": 85,
+            "operator": "x"
+          },
+          {
+            "number": 95,
+            "operator": "-"
+          },
+          {
+            "number": 80,
+            "operator": "x"
+          },
+          {
+            "number": 50,
+            "operator": "+"
+          },
+          {
+            "number": 73,
+            "operator": "+"
+          },
+          {
+            "number": 9,
+            "operator": "+"
+          },
+          {
+            "number": 74,
+            "operator": "x"
+          },
+          {
+            "number": 74,
+            "operator": "-"
+          },
+          {
+            "number": 55,
+            "operator": "+"
+          },
+          {
+            "number": 5,
+            "operator": "+"
+          }
+         
+    ]
+}
